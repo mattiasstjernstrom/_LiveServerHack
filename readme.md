@@ -1,20 +1,4 @@
-<style>
-body {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
-    max-width: 500px;
-    margin: 0 auto;
-    height: 100vh;
-    text-wrap: pretty;
-}
-code {
-    background-color: bisque;
-}
-code.link {
-    background-color: darkred;
-    color: white;
-}
-</style>
+
 <h1>_LiveServerHack</h1>
 <p>
     Some WSGI-servers dosn't work out of the box with
