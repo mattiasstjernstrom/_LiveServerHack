@@ -1,7 +1,7 @@
 
 <h1>_LiveServerHack</h1>
 <p>
-    Some WSGI-servers dosn't work out of the box with
+    Some WSGI-servers don't work out of the box with
     <em><strong>VSCode</strong>: Live Server Hot Reload</em>. This is just an
     webpage with an <code>html</code> and <code>body</code> tag to point the
     <em>Live Server Web Extension</em> at when you don't have a proper
